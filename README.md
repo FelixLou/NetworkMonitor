@@ -1,5 +1,12 @@
 # NetworkMonitor
 This is a project to monitor network speed continuously. 
 
-[] - First
-[] - Second
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
