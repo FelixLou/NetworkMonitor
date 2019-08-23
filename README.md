@@ -5,7 +5,7 @@ This is a project to monitor network speed continuously.
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
-- [ ] Jupiter
+- [X] Jupiter
 - [ ] Saturn
 - [ ] Uranus
 - [ ] Neptune
